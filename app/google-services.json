@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784067893220",
+    "firebase_url": "https://aproxima-2a067.firebaseio.com",
+    "project_id": "aproxima-2a067",
+    "storage_bucket": "aproxima-2a067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784067893220:android:a46fa72219d6557c",
+        "android_client_info": {
+          "package_name": "com.example.samue.aproxima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784067893220-6mm92i3i7ri3vqodgvadjlj3048jgvdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samue.aproxima",
+            "certificate_hash": "339d215d136dc6e0959512c9d3afcec332674d8a"
+          }
+        },
+        {
+          "client_id": "784067893220-714aurk9gis9gdqufloi7cpuft34hg59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHM3Dadpem62Ta3nuLQG2K4oA38aZ2lds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784067893220-714aurk9gis9gdqufloi7cpuft34hg59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
